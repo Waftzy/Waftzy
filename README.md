@@ -11,3 +11,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wafiyy2010@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/obst.ack)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/evaldelois)
+
+## 🧠 Yang Sedang Saya Pelajari
+
+- **Web Application Penetration Testing** (OWASP Top 10, bug bounty)
+- **Incident Response & Forensics**
+- **Red Teaming & Adversary Simulation**
+- **DevSecOps**: Mengintegrasikan keamanan dalam siklus pengembangan
