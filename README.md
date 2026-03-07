@@ -15,17 +15,8 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=Galang-Purnama&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10&hide_border=true" height="165em" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Galang-Purnama&theme=radical&hide_border=true" height="165em" />
-</p>
-
----
-
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://github.com/Galang-Purnama"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://www.galangpurnama.my.id"><img src="https://img.shields.io/badge/Website-0A0A0A?style=flat-square&logo=About.me&logoColor=white" /></a>
-  <a href="mailto:support@nekohime.site"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=Waftzy&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10&hide_border=true" height="165em" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Waftzy&theme=radical&hide_border=true" height="165em" />
 </p>
 
 ---
